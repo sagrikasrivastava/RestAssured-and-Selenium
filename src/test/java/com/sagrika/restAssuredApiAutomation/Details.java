@@ -21,7 +21,5 @@ public class Details {
 	public void setEmailId(String emailId) {
 		this.emailId = emailId;
 	}
-	
-	
 
 }
